@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca4d00b8-f3bd-4065-9a63-4a85041d7041" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/system.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="ca4d00b8-f3bd-4065-9a63-4a85041d7041" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -187,7 +183,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667923135582</updated>
-      <workItem from="1667923137007" duration="2135000" />
+      <workItem from="1667923137007" duration="2559000" />
     </task>
     <task id="LOCAL-00001" summary="t5ex1">
       <created>1667924440109</created>
@@ -196,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667924440109</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="t5ex2">
+      <created>1667925712015</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667925712015</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +207,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="t5ex1" />
-    <option name="LAST_COMMIT_MESSAGE" value="t5ex1" />
+    <MESSAGE value="t5ex2" />
+    <option name="LAST_COMMIT_MESSAGE" value="t5ex2" />
   </component>
 </project>
